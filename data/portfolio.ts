@@ -1,0 +1,43 @@
+export const portfolioData = {
+  name: "Akash Jyoti Das",
+  greet: "Hi, I am",
+  name1: "Akash Jyoti Das",
+  heroHighlight: "passionate web developer.",
+  bio: "I'm a passionate and driven web developer with a strong foundation in modern web technologies. I enjoy building responsive, user-centric applications and solving complex problems through clean and efficient code. I am constantly exploring innovative solutions that bridge software and hardware to create impactful digital experiences.",
+  email: "akashjyotidas32@gmail.com",
+  resume: "#",
+  profileImage: "/profile.jpeg",
+  skills: [
+    "C++",
+    "Python",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "MongoDB",
+    "MySQL",
+  ],
+ education: [
+  {
+    title: "B.Tech in CSE",
+    institute: "Tezpur University, Assam",
+    grade: "Grade: 7.46 till 6th semester",
+    year: "2023 - 2027",
+    logo: "/tezpur-university.gif",
+  },
+  {
+    title: "Class XII (AHSEC)",
+    institute: "Daswani Classes, Assam",
+    grade: "Grade: 80.2%",
+    year: "2023",
+    logo: "/ahsec.png",
+  },
+  {
+    title: "Class X (SEBA)",
+    institute: "Darangigaon Anchalik High School, Assam",
+    grade: "Grade: 89.83%",
+    year: "2021",
+    logo: "/seba.webp",
+  },
+],
+};
