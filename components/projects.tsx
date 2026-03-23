@@ -13,6 +13,15 @@ const projects = [
     preview: "https://number-guessing-game-xi-ashen.vercel.app/",
     image: "/number-guessing-game.png",
   },
+
+  {
+  title: "Portfolio Website",
+  description:
+    "A modern and fully responsive personal portfolio website designed to showcase my skills, projects, and academic journey through a clean user interface and smooth user experience. Built with a strong focus on performance, maintainability, and professional presentation.",
+  tech: ["HTML", "JavaScript", "Next.js", "Tailwind CSS"],
+  preview: "https://akash-portfolio-eta-six.vercel.app/",
+  image: "/portfolio.png",
+},
 ];
 
 export default function Projects() {
