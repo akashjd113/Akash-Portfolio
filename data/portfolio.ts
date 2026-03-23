@@ -5,7 +5,7 @@ export const portfolioData = {
   heroHighlight: "passionate web developer.",
   bio: "I'm a passionate and driven web developer with a strong foundation in modern web technologies. I enjoy building responsive, user-centric applications and solving complex problems through clean and efficient code. I am constantly exploring innovative solutions that bridge software and hardware to create impactful digital experiences.",
   email: "akashjyotidas32@gmail.com",
-  resume: "#",
+  resume: "/Resume - AKASH JYOTI DAS.pdf",
   profileImage: "/profile.jpeg",
   skills: [
     "C++",

@@ -62,9 +62,9 @@ function ResumeButton() {
   return (
     <a
       href={portfolioData.resume}
-      download
-      aria-label="Download CV"
+      download="Resume - AKASH JYOTI DAS.pdf"
       className="group inline-flex h-11 w-11 items-center justify-center rounded-full border border-black/15 bg-black/[0.04] text-slate-700 shadow-sm transition duration-300 hover:scale-110 hover:border-cyan-500/50 hover:text-cyan-600 hover:shadow-[0_0_20px_rgba(8,145,178,0.18)] dark:border-white/15 dark:bg-white/[0.06] dark:text-white dark:hover:border-cyan-400/50 dark:hover:text-cyan-300 dark:hover:shadow-[0_0_24px_rgba(34,211,238,0.28)]"
+      aria-label="Download CV"
     >
       <Download className="h-5 w-5 transition duration-300 group-hover:-translate-y-0.5" />
     </a>
