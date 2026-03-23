@@ -12,7 +12,10 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Akash Jyoti Das | Portfolio",
   description:
-    "Portfolio of Akash Jyoti Das, a passionate web developer and B.Tech CSE student at Tezpur University.",
+    "Portfolio of Akash Jyoti Das, a passionate web developer and tech enthusiast.",
+  icons: {
+    icon: "/profile.jpeg",
+  },  
 };
 
 export default function RootLayout({
